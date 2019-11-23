@@ -8,4 +8,4 @@ This repo contains a bash script named “cars.sh” that will help a user maint
 2. Print the current list of cars
 3. Exit the program
 
-[alt text](https://gearpatrol.com/wp-content/uploads/2019/09/car-realeases-gear-patrol-full-lead.jpg)
+![alt text](https://gearpatrol.com/wp-content/uploads/2019/09/car-realeases-gear-patrol-full-lead.jpg)
